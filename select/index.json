@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Wink",
+  "base_artist": "Azari",
+  "createdAt": "2026-02-18T08:23:45.587792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wink",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/01_Wink_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wink (LP Version)",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/02_Wink_(LP_Version)_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wink (LP Version)",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/03_Wink_(LP_Version)_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wink (Remastered Version)",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/04_Wink_(Remastered_Version)_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wink (Remastered Version)",
+      "artist": "Neal McCoy",
+      "has_synced": true,
+      "path": "select/05_Wink_(Remastered_Version)_Neal_McCoy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue Jeans (Josh Wink Mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/06_Blue_Jeans_(Josh_Wink_Mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wink",
+      "artist": "Little Dragon",
+      "has_synced": true,
+      "path": "select/07_Wink_Little_Dragon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bring Back My Happiness - Josh Wink Mix",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/08_Bring_Back_My_Happiness_-_Josh_Wink_Mix_Moby.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Couldn't Sleep a Wink Last Night (1999 Digital Remaster)",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/09_I_Couldn't_Sleep_a_Wink_Last_Night_(1999_Digital_Remaster)_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Couldn't Sleep a Wink Last Night",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/10_I_Couldn't_Sleep_a_Wink_Last_Night_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wink",
+      "artist": "The Voidz",
+      "has_synced": true,
+      "path": "select/11_Wink_The_Voidz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Nod and a Wink",
+      "artist": "Camel",
+      "has_synced": true,
+      "path": "select/12_A_Nod_and_a_Wink_Camel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Wink at a Time",
+      "artist": "Camp Cope",
+      "has_synced": true,
+      "path": "select/13_One_Wink_at_a_Time_Camp_Cope.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Couldn't Sleep A Wink Last Night",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/14_I_Couldn't_Sleep_A_Wink_Last_Night_Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Wink and a Smile",
+      "artist": "Harry Connick, Jr.",
+      "has_synced": true,
+      "path": "select/15_A_Wink_and_a_Smile_Harry_Connick,_Jr..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wink (feat. Rosu)",
+      "artist": "Azari",
+      "has_synced": false,
+      "path": "select/pl_01_Wink_(feat._Rosu)_Azari.txt"
+    }
+  ]
+}
